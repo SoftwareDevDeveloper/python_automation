@@ -1,3 +1,5 @@
+git status  -->>  prints the status of the Git repository
+
 from selenium.webdriver.common.by import By
 from traceback import print_stack
 from selenium.webdriver.support.ui import WebDriverWait
